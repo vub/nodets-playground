@@ -1,2 +1,2 @@
-# nodets-playground
-A Node start kit with Typescript and Testing
+# 🛠 nodets-playground
+🚢 A Node start-kit with Typescript, Vscode and Testing
